@@ -7,11 +7,11 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Foodee &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<title>Deliveries &mdash; Online Delivery Portal</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+	<meta name="description" content="courier, foods, delivery, goods and services" />
+	<meta name="keywords" content="courier, foods, delivery, goods and services" />
+	<meta name="author" content="papasunnee@gmail.com" />
 
   <!-- 
 	//////////////////////////////////////////////////////
@@ -107,7 +107,7 @@
 					<div class="fh5co-menu-2">
 						<a href="#" data-nav-section="menu">Menu</a>
 						<a href="#" data-nav-section="events">Events</a>
-						<a href="#" data-nav-section="reservation">Reservation</a>
+						<a href="#" data-nav-section="place-order">Place Order</a>
 					</div>
 				</div>
 				
@@ -573,7 +573,7 @@
 			</div>
 		</div>
 
-		<div id="fh5co-contact" data-section="reservation">
+		<div id="fh5co-contact" data-section="place-order">
 			<div class="container">
 				<div class="row text-center fh5co-heading row-padded">
 					<div class="col-md-8 col-md-offset-2">
@@ -595,7 +595,7 @@
 						</ul>
 					</div>
 					<div class="col-md-6 to-animate-2">
-						<h3>Reservation Form</h3>
+						<h3>Food Order Form</h3>
 						<div class="form-group ">
 							<label for="name" class="sr-only">Name</label>
 							<input id="name" class="form-control" placeholder="Name" type="text">
