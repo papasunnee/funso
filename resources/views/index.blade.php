@@ -78,8 +78,8 @@
 				<div class="fh5co-text">
 					<div class="container">
 						<div class="row">
-							<h1 class="to-animate">foodee</h1>
-							<h2 class="to-animate">Lovely Designed <span>by</span> <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+							<h1 class="to-animate">Deliveries</h1>
+							<h2 class="to-animate">FOOD<span>/</span> GOODS AND SERVICES</h2>
 						</div>
 					</div>
 				</div>
@@ -102,7 +102,7 @@
 						<a href="#" data-nav-section="features">Features</a>
 					</div>
 					<div class="fh5co-logo">
-						<a href="index.html">foodee</a>
+						<a href="index.html">deliveries</a>
 					</div>
 					<div class="fh5co-menu-2">
 						<a href="#" data-nav-section="menu">Menu</a>
@@ -281,7 +281,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_5.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_5.jpg" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Pineapple Juice</h3>
@@ -295,7 +295,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_6.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_6.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Green Juice</h3>
@@ -309,7 +309,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_7.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_7.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Soft Drinks</h3>
@@ -323,7 +323,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_5.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_5.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Carlo Rosee Drinks</h3>
@@ -344,7 +344,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_3.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_3.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Beef Steak</h3>
@@ -358,7 +358,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_4.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_4.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Tomato with Chicken</h3>
@@ -372,7 +372,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_2.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_2.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Sausages from Italy</h3>
@@ -386,7 +386,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_8.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_8.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Beef Grilled</h3>
@@ -407,7 +407,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_5.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_5.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Pineapple Juice</h3>
@@ -421,7 +421,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_6.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_6.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Green Juice</h3>
@@ -435,7 +435,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_7.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_7.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Soft Drinks</h3>
@@ -449,7 +449,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_5.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_5.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Carlo Rosee Drinks</h3>
@@ -470,7 +470,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_3.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_3.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Beef Steak</h3>
@@ -484,7 +484,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_4.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_4.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Tomato with Chicken</h3>
@@ -498,7 +498,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_2.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_2.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Sausages from Italy</h3>
@@ -512,7 +512,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="images/res_img_8.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+											<img src="images/res_img_8.jpg" class="img-responsive" >
 										</figure>
 										<div>
 											<h3>Beef Grilled</h3>
@@ -639,8 +639,8 @@
 		<div class="container">
 			<div class="row row-padded">
 				<div class="col-md-12 text-center">
-					<p class="to-animate">&copy; 2016 Foodee Free HTML5 Template. <br> Designed by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Demo Images: <a href="http://pexels.com/" target="_blank">Pexels</a> <br> Tasty Icons Free <a href="http://handdrawngoods.com/store/tasty-icons-free-food-icons/" target="_blank">handdrawngoods</a>
-					</p>
+					{{-- <p class="to-animate">&copy; 2016 Foodee Free HTML5 Template. <br> Designed by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Demo Images: <a href="http://pexels.com/" target="_blank">Pexels</a> <br> Tasty Icons Free <a href="http://handdrawngoods.com/store/tasty-icons-free-food-icons/" target="_blank">handdrawngoods</a>
+					</p> --}}
 					<p class="text-center to-animate"><a href="#" class="js-gotop">Go To Top</a></p>
 				</div>
 			</div>
